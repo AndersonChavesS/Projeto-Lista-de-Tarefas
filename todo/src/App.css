@@ -81,10 +81,10 @@ button:hover {
 }
 
 input, select {
-  background-color: rgba(122, 163, 197, 0.781);
+  background-color: rgba(250, 250, 250, 0.685);
   padding: 5px;
   margin-bottom: 10px;
-  border: 1px solid #333e6ca1;
+  border: 1px solid #b8b8bba1;
   border-radius: 3px;
   width: 100%;
 }
